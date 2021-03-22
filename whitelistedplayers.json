@@ -2,5 +2,9 @@
  "ArcaneCiCi": {
    "name": "ArcaneCiCi",
    "uuid": "58025126-17c2-4fe3-bbc9-81519341f7d6"
+ },
+ "Binrate": {
+   "name": "Binrate",
+   "uuid": "498e1067-5896-4aa1-baaf-4047094927d1"
  }
 }
